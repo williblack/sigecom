@@ -1,0 +1,231 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Line1
+{
+   margin: 0;
+   padding: 0;
+   -moz-box-shadow: 4px 4px 0px #000000;
+   -webkit-box-shadow: 4px 4px 0px #000000;
+   box-shadow: 4px 4px 0px #000000;
+}
+#Image2
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image4
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Form1
+{
+   background-color: transparent;
+   background-image: url(images/Crear_Cliente_Form1_bkgrnd.png);
+   background-repeat: repeat-x;
+   background-position: left top;
+   border: 0px #000000 solid;
+   -moz-box-shadow: 5px 5px 9px #87CEFA;
+   -webkit-box-shadow: 5px 5px 9px #87CEFA;
+   box-shadow: 5px 5px 9px #87CEFA;
+}
+#Line2
+{
+   border-width: 0;
+   height: 311px;
+   width: 11px;
+}
+#Text1 
+{
+   border: 0px #000000 solid;
+   margin: 0;
+}
+#Text3 
+{
+   border: 0px #000000 solid;
+   margin: 0;
+}
+#Text4 
+{
+   border: 0px #000000 solid;
+   margin: 0;
+}
+#Text5 
+{
+   border: 0px #000000 solid;
+   margin: 0;
+}
+#Text6 
+{
+   border: 0px #000000 solid;
+   margin: 0;
+}
+#Text7 
+{
+   border: 0px #000000 solid;
+   margin: 0;
+}
+#Line3
+{
+   border-width: 0;
+   height: 311px;
+   width: 11px;
+}
+#Line4
+{
+   border-width: 0;
+   height: 8px;
+   width: 413px;
+}
+#Line5
+{
+   border-width: 0;
+   height: 8px;
+   width: 413px;
+}
+#AdvancedButton1
+{
+   border: 1px #000000 solid;
+   background-color: #87CEEB;
+   -moz-box-shadow: 4px 4px 4px #000080;
+   -webkit-box-shadow: 4px 4px 4px #000080;
+   box-shadow: 4px 4px 4px #000080;
+}
+#AdvancedButton2
+{
+   border: 1px #000000 solid;
+   background-color: #87CEEB;
+   -moz-box-shadow: 4px 4px 4px #00008B;
+   -webkit-box-shadow: 4px 4px 4px #00008B;
+   box-shadow: 4px 4px 4px #00008B;
+}
+#TextArea7
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 12px;
+   text-align: center;
+   resize: none;
+}
+#TextArea1
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 12px;
+   text-align: center;
+   resize: none;
+}
+#TextArea2
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 12px;
+   text-align: center;
+   resize: none;
+}
+#TextArea3
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 12px;
+   text-align: center;
+   resize: none;
+}
+#TextArea4
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 12px;
+   text-align: center;
+   resize: none;
+}
+#TextArea5
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 12px;
+   text-align: center;
+   resize: none;
+}
+#jQueryButton2
+{
+   font-family: "Comic Sans MS";
+   font-weight: normal;
+   font-size: 13px;
+   font-style: normal;
+}
+#wb_jQueryButton2 .ui-button-text
+{
+   padding: 0;
+   line-height: 17px;
+}
+#jQueryButton2
+{
+   color: #2779AA;
+}
+#jQueryButton2 :hover
+{
+   color: #0070A3;
+}
+#jQueryButton2 :active
+{
+   color: #FFFFFF;
+}
+#wb_jQueryButton2 .ui-button-text-icon .ui-button-icon-primary,
+#wb_jQueryButton2 .ui-button-text-icons .ui-button-icon-primary,
+#wb_jQueryButton2 .ui-button-icons-only .ui-button-icon-primary
+{
+   left: 4px;
+}
+#wb_jQueryButton2 .ui-button-text-icons .ui-button-icon-secondary,
+#wb_jQueryButton2 .ui-button-icons-only .ui-button-icon-secondary
+{
+   right: auto;
+   left: 4px;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Text2 
+{
+   border: 0px #000000 solid;
+   margin: 0;
+}
