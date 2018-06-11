@@ -1,5 +1,5 @@
 <?php
-mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT); //Habilito el reporte de errores
+//mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT); //Habilito el reporte de errores
 
   class ConectorBD{
     private $host = 'localhost';

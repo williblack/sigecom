@@ -19,8 +19,9 @@ $Mensaje["msg"]=$obCon->initConexion("sigecom");
 if($Mensaje["msg"]=="OK"){
     $sql=$obCon->getSQLInsert("usuario", $Datos);
     $obCon->Query($sql);
-    $Mensaje["msg"]="Usuario Creado Satisfactoriamente";
-    print($Mensaje["msg"]);
+    $Mensaje["msg"]="OK";
+    
+    echo(json_encode($Mensaje));
 }else{
-    print($Mensaje["msg"]);
+    echo(json_encode($Mensaje));
 }
