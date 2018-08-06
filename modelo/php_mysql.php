@@ -4,7 +4,7 @@
   class ConectorBD{
     private $host = 'localhost';
     private $user = 'root';
-    private $password = 'pirlo1985';
+    private $password = '79112709768';
     private $conexion;
     /**
      * Inicializa la conexion con la base de datos utilizando mysqli

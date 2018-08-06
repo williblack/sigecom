@@ -3,7 +3,6 @@ body
    background-color: #FFFFFF;
    color: #000000;
    font-family: Arial;
-   font-weight: normal;
    font-size: 13px;
    line-height: 1.1875;
    margin: 0;
@@ -57,22 +56,35 @@ body
 #jQueryButton2
 {
    font-family: "Comic Sans MS";
-   font-weight: normal;
    font-size: 13px;
+   font-weight: normal;
    font-style: normal;
 }
-#jQueryButton2 .ui-button
+#wb_jQueryButton2 .ui-button-text
 {
-   position: absolute;
+   padding: 0;
+   line-height: 28px;
 }
-#jQueryButton2 .ui-button-text-icon .ui-button-icon-primary,
-#jQueryButton2 .ui-button-text-icons .ui-button-icon-primary,
-#jQueryButton2 .ui-button-icons-only .ui-button-icon-primary
+#jQueryButton2
+{
+   color: #2779AA;
+}
+#jQueryButton2 :hover
+{
+   color: #0070A3;
+}
+#jQueryButton2 :active
+{
+   color: #FFFFFF;
+}
+#wb_jQueryButton2 .ui-button-text-icon .ui-button-icon-primary,
+#wb_jQueryButton2 .ui-button-text-icons .ui-button-icon-primary,
+#wb_jQueryButton2 .ui-button-icons-only .ui-button-icon-primary
 {
    left: 4px;
 }
-#jQueryButton2 .ui-button-text-icons .ui-button-icon-secondary,
-#jQueryButton2 .ui-button-icons-only .ui-button-icon-secondary
+#wb_jQueryButton2 .ui-button-text-icons .ui-button-icon-secondary,
+#wb_jQueryButton2 .ui-button-icons-only .ui-button-icon-secondary
 {
    right: auto;
    left: 4px;
@@ -96,19 +108,6 @@ body
    width: 100%;
    height: 100%;
 }
-#Text4 
-{
-   border: 0px #000000 solid;
-   margin: 0;
-}
-#Image6
-{
-   border: 0px #000000 solid;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
 #Image7
 {
    border: 0px #000000 solid;
@@ -116,19 +115,6 @@ body
    top: 0;
    width: 100%;
    height: 100%;
-}
-#Image3
-{
-   border: 0px #000000 solid;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#Text5 
-{
-   border: 0px #000000 solid;
-   margin: 0;
 }
 #Image1
 {
